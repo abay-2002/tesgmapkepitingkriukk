@@ -84,7 +84,11 @@ body {
 	}
 
 }
-
+/*gmaps*/
+#map {
+	width: 100%;
+	height: 350px;
+}
 /*form*/
 form {
 	text-align: center;
